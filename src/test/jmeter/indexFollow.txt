@@ -4,3 +4,7 @@ wowwiki.com,/
 wowwiki.com,/Azeroth
 uncyclopedia.wikia.com,/
 uncyclopedia.wikia.com,/wiki/Uncyclopedia:About
+mediawiki119.wikia.com,/wiki/Formatting2
+mediawiki119.wikia.com,/wiki/User:KarolK1
+mediawiki119.wikia.com,/wiki/User_blog:KarolK1
+mediawiki119.wikia.com,/wiki/File:Image010.jpg

@@ -4,3 +4,9 @@ wowwiki.com,Special:Allpages
 wowwiki.com,Special:Listusers
 uncyclopedia.wikia.com,/wiki/Special:AllPages
 uncyclopedia.wikia.com,/wiki/Special:Listusers
+mediawiki119.wikia.com,/wiki/Formatting2?action=edit
+mediawiki119.wikia.com,/wiki/Formatting2?action=history
+mediawiki119.wikia.com,/wiki/Special:SpecialPages
+mediawiki119.wikia.com,/wiki/Special:NewFiles
+mediawiki119.wikia.com,/wiki/Special:WikiActivity
+mediawiki119.wikia.com,/wiki/Special:CreatePage
