@@ -1,0 +1,6 @@
+muppet.wikia.com,/
+muppet.wikia.com,/Kermit
+wowwiki.com,/
+wowwiki.com,/Azeroth
+uncyclopedia.wikia.com,/
+uncyclopedia.wikia.com,/wiki/Uncyclopedia:About

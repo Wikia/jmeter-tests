@@ -1,0 +1,6 @@
+muppet.wikia.com,wiki/Special:Allpages
+muppet.wikia.com,wiki/Special:Listusers
+wowwiki.com,Special:Allpages
+wowwiki.com,Special:Listusers
+uncyclopedia.wikia.com,/wiki/Special:AllPages
+uncyclopedia.wikia.com,/wiki/Special:Listusers
